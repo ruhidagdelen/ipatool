@@ -1,5 +1,8 @@
 # IPATool
 
+> [!CAUTION]
+> **This repository is a specific fork.** Please use the official version maintained at [**https://github.com/ruhidagdelen/ipatool**](https://github.com/ruhidagdelen/ipatool) for the latest fixes and improvements.
+
 [![Release](https://img.shields.io/github/release/majd/ipatool.svg?label=Release)](https://GitHub.com/majd/ipatool/releases/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/majd/ipatool/blob/main/LICENSE)
 
